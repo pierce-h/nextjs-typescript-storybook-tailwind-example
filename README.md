@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 Run the development server:
 
 ```bash
-npm run dev
+yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -15,7 +15,7 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 ## Storybook
 
 ```bash
-npm run storybook
+yarn storybook
 ```
 
 Open [http://localhost:6006](http://localhost:6006) with your browser to see the result.
